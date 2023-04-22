@@ -3,7 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import Link from "next/link";
 import { Grid, GridItem } from "@chakra-ui/react";
-import PostCard from "../components/PostCard";
+import PostCard from "../components/postcard";
 
 
 export const getStaticProps = () => {
