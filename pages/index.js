@@ -22,7 +22,7 @@ const Home = () => {
         Kazuki Nitta
       </Heading>
       <p>
-        Student at  <Link href="https://42tokyo.jp/" color="ActiveBorder">42Tokyo</Link>
+        Student at  <Link href="https://42tokyo.jp/" color="Coral">42Tokyo</Link>
       </p>
       <HStack mt={6} spacing={6}>
         <IconButton
