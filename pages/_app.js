@@ -17,12 +17,8 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:site" content="@YourTwitterHandle" />
-        <meta property="twitter:title" content="My Awesome Page" />
-        <meta
-          property="twitter:description"
-          content="This is a description of my awesome page"
-        />
+        <meta property="twitter:site" content="@knitta221" />
+        <meta property="twitter:title" content="Kazuki Nitta のサイト" />
         <meta
           property="twitter:image"
           content="/images/me.JPG"
