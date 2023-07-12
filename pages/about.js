@@ -22,7 +22,7 @@ const AboutMe = () => {
         <Text mb={4}>以下は現在の私のスキルです。</Text>
         <List styleType="disc">
           <ListItem>
-            C言語, JavaScript, TypeScript, React, Next.js, Node.js, MongoDB,
+            C言語, Go言語, JavaScript, TypeScript, React, Next.js, Node.js, MongoDB,
             PostgreSQL, Docker, Git, GitHub, Linux, Unix , etc...
           </ListItem>
           <ListItem>
